@@ -1,0 +1,1 @@
+This is a Java Swing-based desktop banking application that simulates a basic ATM system. It allows users to register, log in, and perform common banking operations like deposits, withdrawals, checking balance, and viewing mini-statements.
